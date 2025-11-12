@@ -19,14 +19,14 @@ USERS_DB = [
         "id": "aa4ed5cd-58f9-431e-9900-7a820633bc40",
         "username": "admin",
         "email": "admin@gmail.com",
-        "password": "123456",
+        "password": "12345",
         "role": "Admin"
     },
     {
         "id": "61a87d82-db93-4622-bda2-c87c5d22b413",
         "username": "nippu",
         "email": "nipp@gmail.com",
-        "password": "123456",
+        "password": "12345",
         "role": "User"
     }
 ]
